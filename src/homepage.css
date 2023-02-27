@@ -1,0 +1,53 @@
+
+.weather{
+    padding: 20px;
+    margin: 50px auto;
+    width:50%;
+    height:70vh;
+    background-color: whitesmoke;
+    box-shadow:1px 3px 10px rgb(211, 211, 211);
+    font-family: Montserrat;
+    border-radius: 8px;
+    border:2px dashed lightgreen
+}
+.weather h2{
+    text-align: center;
+    font-size: 30px;
+}
+
+input{
+    font-family: Montserrat;
+    font-size: 20px;
+    width: 60%;
+    padding: 10px;
+    border-radius: 8px;
+
+}
+button{
+    width: 100px;
+    height: 40px;
+    margin-left: 20px;
+    background-color: rgba(34, 103, 176, 0.971);
+    border-radius: 7px;
+    box-shadow: 1px 2px 3px black;
+    cursor: pointer;
+    color: white;
+    font-weight: bold;
+    font-size: 17px;
+    
+
+}
+
+.weather_details{
+    margin: 60px;
+    font-size:18px;
+}
+.prompt{
+    margin-top: 10px;
+    background-color: rgb(204, 27, 0);
+    width: 100%;
+    height: 30px;
+    padding: 8px;
+    color: rgb(255, 223, 222);
+    text-align: center;
+}
